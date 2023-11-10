@@ -1,0 +1,25 @@
+deferent between properties and methods:
+properties: window.location.href
+methods: window.alert("Hello world")
+
+typeof(window)
+typeof(this)
+this.alert("Hello world")
+window.alert("Hello world")
+window.location
+window.["location"]
+window.open("http://localhost:300")
+
+Defining Objects:
+Object Literal
+
+Object with keyword
+new Object()
+
+Object  Object.create()
+Object with constructor
+explaining "THIS"
+THIS and the arrow functions
+for now i need you to understand only 10% of THIS 
+
+Object  Object.assign()
